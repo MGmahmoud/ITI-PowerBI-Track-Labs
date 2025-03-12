@@ -10,9 +10,6 @@ This repository contains all my work during my ITI Power BI Track, including:
 - 🐍 **Python Projects** (Data Analysis, Automation)
 
 ## 📂 Repository Structure
-
-📁 ITI-PowerBI-Projects
-
 - ├── 📁 Databases
 - ├── 📁 DataWarehouse
 - ├── 📁 SQL-Queries
