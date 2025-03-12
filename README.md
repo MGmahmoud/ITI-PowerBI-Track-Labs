@@ -1,2 +1,20 @@
-# ITI-PowerBI-Track-Labs
-This repository contains all the work I completed during my time at ITI, including projects related to data analysis, Power BI, Python, and more. It serves as a collection of my learning and development in data science and software engineering.
+# ITI Power BI Track - My Work
+
+This repository contains all my work during my ITI Power BI Track, including:
+
+- 🗄 **Database Development** (SQL, ERD, Stored Procedures)
+- 🏛 **Data Warehouse** (ETL, SSIS, Star Schema)
+- 📊 **Power BI Dashboards** (Interactive Reports & Insights)
+- 📜 **SQL Queries** (Data Extraction & Transformation)
+- 📑 **Reports** (SSRS, Report Builder, Crystal Reports)
+- 🐍 **Python Projects** (Data Analysis, Automation)
+
+## 📂 Repository Structure
+📁 ITI-PowerBI-Projects
+├── 📁 Databases
+├── 📁 DataWarehouse
+├── 📁 SQL-Queries
+├── 📁 PowerBI-Dashboards
+├── 📁 Reports
+├── 📁 Python-Projects
+├── 📄 README.md
