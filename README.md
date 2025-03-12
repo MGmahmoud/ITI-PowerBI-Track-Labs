@@ -13,10 +13,10 @@ This repository contains all my work during my ITI Power BI Track, including:
 
 📁 ITI-PowerBI-Projects
 
--├── 📁 Databases
--├── 📁 DataWarehouse
--├── 📁 SQL-Queries
--├── 📁 PowerBI-Dashboards
--├── 📁 Reports
--├── 📁 Python-Projects
--├── 📄 README.md
+- ├── 📁 Databases
+- ├── 📁 DataWarehouse
+- ├── 📁 SQL-Queries
+- ├── 📁 PowerBI-Dashboards
+- ├── 📁 Reports
+- ├── 📁 Python-Projects
+- ├── 📄 README.md
