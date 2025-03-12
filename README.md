@@ -2,7 +2,7 @@
 
 This repository contains all my work during my ITI Power BI Track, including:
 
-- 🗄 **Database Development** (SQL, ERD, Stored Procedures)
+- 🗄 **Database Development** (ERD, Mapping, Normalization, Indexs, Views, Functions, Stored Procedures)
 - 🏛 **Data Warehouse** (ETL, SSIS, Star Schema)
 - 📊 **Power BI Dashboards** (Interactive Reports & Insights)
 - 📜 **SQL Queries** (Data Extraction & Transformation)
