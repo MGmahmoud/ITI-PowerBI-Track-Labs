@@ -2,18 +2,18 @@
 
 This repository contains all my work during my ITI Power BI Track, including:
 
-- 🗄 **Database Development** (ERD, Mapping, Normalization, Queries, Indexs, Views, Functions, Trigers, Stored Procedures)
+- 🗄 **Databases** (ERD, Mapping, Normalization, Queries, Indexs, Views, Functions, Trigers, Stored Procedures)
 - 📜 **SQL Queries** (Data Extraction & Transformation)
 - 🏛 **Data Warehouse** (ETL, SSIS, Star Schema)
+- 📑 **BI Tools & Reports** (SSIS, SSAS, SSRS)
 - 📊 **Power BI Dashboards** (Interactive Reports & Insights)
-- 📑 **Reports** (SSRS, Report Builder, Crystal Reports)
 - 🐍 **Python Projects** (Data Analysis, Automation)
 
 ## 📂 Repository Structure
-- ├── 📁 Databases
-- ├── 📁 DataWarehouse
-- ├── 📁 SQL-Queries
-- ├── 📁 PowerBI-Dashboards
-- ├── 📁 Reports
-- ├── 📁 Python-Projects
+- ├── 📁 01-Databases
+- ├── 📁 02-SQL-Queries
+- ├── 📁 03-DataWarehouse
+- ├── 📁 04-BI-Tools & Reports
+- ├── 📁 05-PowerBI-Dashboards
+- ├── 📁 06-Python-Projects
 - ├── 📄 README.md
