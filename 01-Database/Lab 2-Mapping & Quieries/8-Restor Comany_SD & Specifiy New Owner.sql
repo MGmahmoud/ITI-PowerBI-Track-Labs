@@ -17,14 +17,11 @@ GO
 
 SELECT name, SUSER_SNAME(owner_sid) AS Owner
 FROM sys.databases
-WHERE name = 'Company_SD'; -- Replace 'Company' with your actual database name
+WHERE name = 'Company_SD'; -- Replace 'Company_SD' with your actual database name
 GO
-
-
 
 USE [Company_SD]; -- Replace with your actual database name
 GO
-
 
 ALTER AUTHORIZATION ON DATABASE::[Company_SD] TO [sa];
 GO
